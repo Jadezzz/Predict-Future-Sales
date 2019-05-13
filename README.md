@@ -2,7 +2,7 @@
 My Solution For [Kaggle Competition - Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
 
 
-Score: 0.90176 (Public Leaderboard)
+Score: 0.90176 (Public Leaderboard Top 7%)
 
 Team Name: Robin Lin
 
